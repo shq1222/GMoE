@@ -1,2 +1,0 @@
-*.pth filter=lfs diff=lfs merge=lfs -text
-model_weight/best_model_epoch_85_auc_0.6523.pth filter=lfs diff=lfs merge=lfs -text
