@@ -15,7 +15,7 @@ model/
 Core model architectures including spatial and temporal transformers, and the gating mechanism.
 
 model_weight/
-Pretrained model weights
+Model weights
 
 preprocess/
 Data preprocessing scripts and utilities.
